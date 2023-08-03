@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mamifero marino
+=======
+este archivo habla de delfines
+>>>>>>> 97d807fd084e64c7b60582aec91a0e73de236f63
